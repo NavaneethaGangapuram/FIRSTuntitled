@@ -27,5 +27,6 @@ public class COMMON_SETORHASHSET {
         System.out.println("###############################CLEAR#################################");
         colors.clear();
         System.out.println(colors);
+        System.out.println("end ");
     }
 }

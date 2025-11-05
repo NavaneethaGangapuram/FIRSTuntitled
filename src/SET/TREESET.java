@@ -31,6 +31,11 @@ public class TREESET {
         System.out.println("################################CLEAR################################");
         jobs.clear();
         System.out.println(jobs);
+        jobs.add("developer");
+        jobs.add("tester");
+        jobs.add("projectmanager");
+        System.out.println(jobs);
+
 
 
     }
